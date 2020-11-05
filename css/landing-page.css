@@ -716,6 +716,11 @@ footer{
         display: none;
     }
 
+    nav{
+        padding-top: .7rem;
+        padding-bottom: .7rem;
+    }
+
     .links-hover{
         display: none;
     }
